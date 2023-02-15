@@ -2,8 +2,7 @@
 <h3 align="center">I'm Open Source Developer</h3>
 <!------>
 
-**Student at ITI ..\n
-Fresh graduate in Computer Science who is passionate about back end, front end and software development.**
+** junior FullStack python Developer **
 
 <h2 align="left">Connect Me With</h2>
 <!------>
