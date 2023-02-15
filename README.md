@@ -2,7 +2,8 @@
 <h3 align="center">I'm Open Source Developer</h3>
 <!------>
 
-**Computer science fresh graduate passionate about Backend and Frontend, and Software development. More than one year of Python coding experience with object-oriented programming and data structures.**
+**Student at ITI **
+**Fresh graduate in Computer Science who is passionate about back end, front end and software development.**
 
 <h2 align="left">Connect Me With</h2>
 <!------>
