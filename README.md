@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋  I'm Osama </h1>
-<h3 align="center">I'm Open Source Developer</h3>
+<h3 align="center">I'm junior FullStack python Developer</h3>
 <!------>
 
-** junior FullStack python Developer **
+
 
 <h2 align="left">Connect Me With</h2>
 <!------>
