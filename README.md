@@ -9,7 +9,7 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/osamaahmed1872" target="blank">
+  <a href="https://www.linkedin.com/in/oosamaahmed" target="blank">
     <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/linkedin.png" alt="Osama Ahmed" height="30" width="40" />
   </a>
   <a href="https://twitter.com/OsOs1872" target="blank">
@@ -58,7 +58,7 @@
 <br />
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmed187&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oosamaahmed&show_icons=true&theme=radical" />
 </p>
 
 <br />
