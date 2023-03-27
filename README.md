@@ -6,7 +6,7 @@
   
 
 
-<h3 align="center"><h1 align="center"> I'm Osama </h1>, junior Full Stack python Developer</h3>
+<h3 align="center">I'm Osama, junior Full Stack python Developer</h3>
 <!------>
 
 
