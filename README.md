@@ -1,4 +1,4 @@
-
+<img src="https://komarev.com/ghpvc/?username=OosamaAhmed&&style=flat-square" align="right" />
 
 <div align="center">
 <img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
@@ -63,19 +63,17 @@
 <br />
 <br />
 
+## Github Stats 
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=oosamaahmed&show_icons=true&theme=radical" />
 </p>
-
 <br />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OosamaAhmed&show_icons=true&theme=radical"  />
+ </p>
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=OosamaAhmed&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<br />
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=OosamaAhmed&&style=flat-square" align="right" />
-</div>  
-  <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OosamaAhmed&hide_border=true&layout=compact" align="left" />
+
+
