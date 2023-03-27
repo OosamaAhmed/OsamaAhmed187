@@ -62,6 +62,8 @@
 
 <br />
 
+## Counter Visitor
+<img src="https://profile-counter.glitch.me/Oosamaahmed/count.svg" />
 
 ## Github Stats 
 <p>
