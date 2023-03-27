@@ -1,4 +1,11 @@
 <h1 align="center">Hi there 👋  I'm Osama </h1>
+
+<div align="center">
+<img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
+</div>  
+  
+
+
 <h3 align="center">I'm junior Full Stack python Developer</h3>
 <!------>
 
