@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0B6115FF&size=40&center=true&vCenter=true&width=1000&lines=Welcome;My+name+is+Osam+Ahmed;I+am+from+Egypt;I'm+studying+Backend+and+frontend;I+am+using+Django+framework+and+react)](https://git.io/typing-svg)
+
 
 <div align="center">
 <img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
