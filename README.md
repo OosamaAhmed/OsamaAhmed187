@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C0392B&size=40&center=true&vCenter=true&width=1000&lines=Welcome;My+name+is+Osam+Ahmed;I+am+from+Egypt;I'm+studying+Backend+and+frontend;I+am+using+Django+framework+and+react)](https://git.io/typing-svg)
-
+<!-- 
 ```python
 from django.http import HttpResponse
 from time import sleep
@@ -24,10 +24,10 @@ def my_life(request):
     except:
         return HttpResponse("An error occurred")
 
-```
-<!-- <div align="center">
+``` -->
+ <div align="center">
 <img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
-</div>   -->
+</div>   
   
 
 
