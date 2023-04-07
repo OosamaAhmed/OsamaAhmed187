@@ -88,17 +88,18 @@ def my_life(request):
 
 <br />
 
-## Counter Visitor
-<img src="https://profile-counter.glitch.me/Oosamaahmed/count.svg" />
 
-## Github Stats 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OosamaAhmed&show_icons=true&theme=radical"  />
- </p>
- 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oosamaahmed&show_icons=true&theme=radical" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oosamaahmed" alt="oosamaahmed" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oosamaahmed&show_icons=true&locale=en&layout=compact" alt="oosamaahmed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oosamaahmed&show_icons=true&locale=en" alt="oosamaahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oosamaahmed&" alt="oosamaahmed" /></p>
 
 
 
