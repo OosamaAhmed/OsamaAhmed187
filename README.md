@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C0392B&size=40&center=true&vCenter=true&width=1000&lines=Welcome;My+name+is+Osam+Ahmed;I+am+from+Egypt;I'm+studying+Backend+and+frontend;I+am+using+Django+framework+and+react)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C51F6A&size=25&vCenter=true&center=true&background=272822&width=600&lines=Welcome;My+name+is+Osama+Ahmed;I+am+from+Egypt;I'm+studying+Backend+and+frontend;I+am+using+Django+framework+and+react)](https://git.io/typing-svg)
 <!-- 
 ```python
 from django.http import HttpResponse
@@ -25,10 +25,11 @@ def my_life(request):
         return HttpResponse("An error occurred")
 
 ``` -->
- <div align="center">
+<!-- <div align="center">
 <img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
-</div>   
+</div>   -->
   
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=When+I+am+working+on+a+problem+I+never+think+about+beauty.+I+think+only+how+to+solve+the+problem+But+when+I+have+finished,+if+the+solution+is+not+beautiful,+I+know+it+is+wrong+&author=Buckminster+Fuller)
 
 
 <!-- <h3 align="center">I'm Osama, junior Full Stack python Developer</h3> -->
