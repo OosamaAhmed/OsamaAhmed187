@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C51F6A&size=25&vCenter=true&center=true&background=272822&width=600&lines=Welcome;My+name+is+Osama+Ahmed;I+am+from+Egypt;I'm+studying+Backend+and+frontend;I+am+using+Django+framework+and+react)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C51F6A&size=25&vCenter=true&center=true&background=272822&width=600&lines=Welcome;I'm+Osama+Ahmed;Studying+Backend+and+Frontend)](https://git.io/typing-svg)
 <!-- 
 ```python
 from django.http import HttpResponse
