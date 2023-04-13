@@ -86,18 +86,15 @@ def my_life(request):
 
 </div>
 
-<br />
-
+<hr />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oosamaahmed&show_icons=true&locale=en&layout=compact" alt="oosamaahmed" /></p>
+<hr />
+<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oosamaahmed&show_icons=true&locale=en" alt="oosamaahmed" /></p>
+<hr />
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oosamaahmed&" alt="oosamaahmed" /></p>
 <hr />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oosamaahmed" alt="oosamaahmed" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oosamaahmed&show_icons=true&locale=en&layout=compact" alt="oosamaahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oosamaahmed&show_icons=true&locale=en" alt="oosamaahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oosamaahmed&" alt="oosamaahmed" /></p>
-
-
+<hr />
 
 
 
