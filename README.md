@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C51F6A&size=25&vCenter=true&center=true&background=272822&width=600&lines=Welcome;I'm+Osama+Ahmed;)](https://git.io/typing-svg)
-<!-- 
+
 ```python
 from django.http import HttpResponse
 from time import sleep
@@ -24,10 +24,10 @@ def my_life(request):
     except:
         return HttpResponse("An error occurred")
 
-``` -->
-<!-- <div align="center">
+```
+ <div align="center">
 <img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
-</div>   -->
+</div>   
   
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=When+I+am+working+on+a+problem+I+never+think+about+beauty.+I+think+only+how+to+solve+the+problem+But+when+I+have+finished,+if+the+solution+is+not+beautiful,+I+know+it+is+wrong+&author=Buckminster+Fuller)
 
