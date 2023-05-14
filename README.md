@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C51F6A&size=25&vCenter=true&center=true&background=272822&width=600&lines=Welcome;I'm+Osama+Ahmed;)](https://git.io/typing-svg)
-
+<!--
 ```python
 from django.http import HttpResponse
 from time import sleep
@@ -24,10 +24,11 @@ def my_life(request):
     except:
         return HttpResponse("An error occurred")
 
-```
+```-->
+<!--
  <div align="center">
 <img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
-</div>   
+</div>   -->
   
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=When+I+am+working+on+a+problem+I+never+think+about+beauty.+I+think+only+how+to+solve+the+problem+But+when+I+have+finished,+if+the+solution+is+not+beautiful,+I+know+it+is+wrong+&author=Buckminster+Fuller)
 
@@ -36,7 +37,6 @@ def my_life(request):
 <!------>
 
 
-<img src="https://komarev.com/ghpvc/?username=OosamaAhmed&&style=flat-square" align="right" />
 <h2 align="left">Connect Me With</h2>
 <!------>
 
@@ -63,9 +63,6 @@ def my_life(request):
 
 - 📫 How to reach me out: [My facebook account](https://www.facebook.com/OsamaAhmedAlkatkoti/)
 
-- 😄 Pronouns: Osama
-
-- ⚡ Fun fact: "_Bellow the lid of your life_ " is my fav Qoute.
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> My Skills
 
@@ -73,7 +70,8 @@ def my_life(request):
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/django.png" /></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <br />
 
