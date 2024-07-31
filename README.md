@@ -48,7 +48,7 @@ def my_life(request):
   <a href="https://twitter.com/OsOs1872" target="blank">
     <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/twitter.png" alt="osama" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/OsamaAhmedAlkatkoti" target="blank">
+  <a href="https://www.facebook.com/OsamaAlkatkoti" target="blank">
     <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/facebook.png" alt="Osama " height="30" width="40" />
   </a>
 </p>
@@ -61,7 +61,7 @@ def my_life(request):
 
 - 🌱 I’m currently learning **Open Source Development & Software Development**
 
-- 📫 How to reach me out: [My facebook account](https://www.facebook.com/OsamaAhmedAlkatkoti/)
+- 📫 How to reach me out: [My facebook account](https://www.facebook.com/OsamaAlkatkoti/)
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> My Skills
