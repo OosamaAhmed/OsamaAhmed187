@@ -45,7 +45,7 @@ def my_life(request):
   <a href="https://www.linkedin.com/in/oosamaahmed" target="blank">
     <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/linkedin.png" alt="Osama Ahmed" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/OsOs1872" target="blank">
+  <a href="https://twitter.com/OsamaAlkatkoti" target="blank">
     <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/twitter.png" alt="osama" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/OsamaAlkatkoti" target="blank">
